@@ -1,0 +1,10 @@
+.venv/
+dataset/
+dataset_v2/
+runs/
+training/
+training_v2/
+evaluation/
+*.pt
+__pycache__/
+.DS_Store
